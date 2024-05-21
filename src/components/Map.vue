@@ -1,4 +1,4 @@
-  <!-- <template>
+  <template>
     <div>
       <div id="map" style="height: 100vh;"></div>
       <div class="chart-container">
@@ -234,7 +234,7 @@
     width: 100% !important;
     height: auto !important;
   }
-  </style> -->
+  </style>
 
 
 
@@ -249,7 +249,7 @@
 
 
 
-
+<!-- 
 
   <template>
     <div>
@@ -489,4 +489,4 @@
 
 
 
-
+ -->
