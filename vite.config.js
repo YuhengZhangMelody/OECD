@@ -39,5 +39,5 @@ export default defineConfig({
     },
   },
   assetsInclude: ['**/*.csv', '**/*.geojson'],
-  base: './', 
+  base: '/OECD-Vue/', 
 });
