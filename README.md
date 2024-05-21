@@ -11,6 +11,16 @@ The OECD Mapbox project is an interactive map application designed to visualize 
 - **User Interaction**: Updates chart data based on user interaction with the map.
 - **Responsive Design**: Ensures a good user experience on different devices.
 
+## Result Preview
+Here are some screenshots of the web application:
+
+![Map View](pic/Pasted Graphic 132.png)
+*Screenshot showing the map with urban areas in polygon format and the dynamic chart displaying PM 2.5 trends.*
+
+![Chart View](pic/Pasted Graphic 131.png)
+*Screenshot showing the average dynamic chart displaying PM 2.5 trends.*
+
+
 ## Tools and Frameworks
 
 - **Vue 3**: Front-end framework for building the user interface.
